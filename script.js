@@ -2,8 +2,8 @@
 // Creative Coding W11 Arduino & p5js communication
 // using arduino button, photocell and potentiometer to control my w4 sketch - csgo aimlab. 
 // My map size was hard coded into 600, 800; which doesn't fit in all device. 
-// In order to compatiable for all device, I set it to windowWidth and windowHeight 
-// references: Creative coding w11 class demo
+// In order to compatiable for all device, I set it to windowWidth and windowHeight.
+// references: Creative coding w11 class demo, serial pot example.
 // references: https://itp.nyu.edu/physcomp/labs/labs-serial-communication/two-way-duplex-serial-communication-using-p5js/
 // background image & arm image from in game screenshot
 
